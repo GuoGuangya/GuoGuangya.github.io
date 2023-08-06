@@ -1,0 +1,26 @@
+{
+  "config": {
+    "branch": "master",
+    "domain": "https://GuoGuangya.github.io",
+    "email": "",
+    "platform": "github",
+    "repository": "GuoGuangya.github.io",
+    "token": "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",
+    "username": "GuoGuangya"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}
